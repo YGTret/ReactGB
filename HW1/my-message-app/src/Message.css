@@ -1,0 +1,15 @@
+/* src/Message.css */
+.message-box {
+    border: 2px solid #4CAF50;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    width: fit-content;
+    margin: 10px 0;
+  }
+  
+  .message-box p {
+    font-size: 18px;
+    color: #333;
+  }
+  
